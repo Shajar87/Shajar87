@@ -1,7 +1,7 @@
 # 💼 Mohd Shajar | Data Analyst & AI Enthusiast
 
 ### 🚀 About Me
-I’m a passionate Data Analyst with a knack for solving complex business problems through data-driven insights and machine learning. With hands-on experience in Python, SQL, Power BI, and machine learning, I’ve worked on projects that include customer churn prediction, cohort analysis, and deep learning models for real-time applications. My goal is to leverage data science to drive innovation and impact at scale.
+I’m a passionate Data Scientist with a knack for solving complex business problems through data-driven insights and machine learning. With hands-on experience in Python, SQL, Power BI, and machine learning, I’ve worked on projects that include customer churn prediction, cohort analysis, and deep learning models for real-time applications. My goal is to leverage data science to drive innovation and impact at scale.
 
 ---
 
