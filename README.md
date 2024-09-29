@@ -8,8 +8,6 @@ I previously interned as a Data Analyst at Siemens.
 With practical experience in ETL, exploratory data analysis, predictive modeling, and visualization through diverse projects and internships, my goal is to leverage data to inspire innovation, enhance efficiency, and make a meaningful impact through data-driven strategies.
 
 Feel free to connect with me!
-
-Feel free to connect with me!
 ---
 
 ### 💼 Professional Experience
