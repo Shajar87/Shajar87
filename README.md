@@ -1,8 +1,15 @@
-# 💼 Mohd Shajar | Data Analyst & AI Enthusiast
+# 💼 Mohd Shajar | Data Scientist 
 
 ### 🚀 About Me
-I’m a passionate Data Scientist with a knack for solving complex business problems through data-driven insights and machine learning. With hands-on experience in Python, SQL, Power BI, and machine learning, I’ve worked on projects that include customer churn prediction, cohort analysis, and deep learning models for real-time applications. My goal is to leverage data science to drive innovation and impact at scale.
 
+I’m Mohd Shajar, a data science enthusiast passionate about transforming data into actionable insights and driving process improvements that fuel business growth. 
+
+I previously interned as a Data Analyst at Siemens. 
+With practical experience in ETL, exploratory data analysis, predictive modeling, and visualization through diverse projects and internships, my goal is to leverage data to inspire innovation, enhance efficiency, and make a meaningful impact through data-driven strategies.
+
+Feel free to connect with me!
+
+Feel free to connect with me!
 ---
 
 ### 💼 Professional Experience
