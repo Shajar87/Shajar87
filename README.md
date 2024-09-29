@@ -13,7 +13,7 @@ Feel free to connect with me!
 ### 💼 Professional Experience
 
 **Data Analyst Intern**  
-*Siemens Mobility, Gurugram | April 2024 - September 2024*  
+*Siemens, Gurugram | April 2024 - September 2024*  
 - Analyzed internal data sources for workforce management and developed a competency matrix to track employee skills.  
 - Contributed to a Django-based Customer Complaint Management Tool, reducing resolution times by 25-30%.
 
