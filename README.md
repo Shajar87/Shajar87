@@ -2,10 +2,9 @@
 
 ### 🚀 About Me
 
-I’m Mohd Shajar, a data science enthusiast passionate about transforming data into actionable insights and driving process improvements that fuel business growth. 
+I’m Mohd Shajar, a data science enthusiast passionate about transforming data into actionable insights and driving process improvements that contribute to business growth.
 
-I previously interned as a Data Analyst at Siemens. 
-With practical experience in ETL, exploratory data analysis, predictive modeling, and visualization through diverse projects and internships, my goal is to leverage data to inspire innovation, enhance efficiency, and make a meaningful impact through data-driven strategies.
+I previously interned as a Data Analyst at Siemens. While I may not be an expert, I have hands-on experience in ETL, exploratory data analysis, predictive modeling, and visualization through various projects and internships. I am eager to make a meaningful impact through data-driven strategies.
 
 ---
 
@@ -13,8 +12,10 @@ With practical experience in ETL, exploratory data analysis, predictive modeling
 
 **Data Analyst Intern**  
 *Siemens, Gurugram | April 2024 - September 2024*  
-- Analyzed internal data sources for workforce management and developed a competency matrix to track employee skills.  
-- Contributed to a Django-based Customer Complaint Management Tool, reducing resolution times by 25-30%.
+- Worked with the Quality Team of Siemens Mobility to analyze data from diverse internal sources.
+- Contributed to developing a Django-based Customer Complaint Management Tool, optimizing the complaint handling process. Automated the submission and receipt of complaints, aiming to reduce resolution time by 25-30%.
+- Designed a competency matrix in Excel to track and assess employee skill levels, enhancing workforce management and productivity.
+
 
 **Data Analyst Intern**  
 *GuruCool, Remote | February 2023 - April 2023*  
