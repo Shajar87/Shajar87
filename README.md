@@ -1,4 +1,4 @@
-# 💼 Mohd Shajar | Data Scientist 
+# Mohd Shajar | Data Analyst | Data Scientist 
 
 ### 🚀 About Me
 
