@@ -24,6 +24,13 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
 
 ---
 
+### 🎓 Education
+
+**Bachelor of Technology in Electronics Engineering**  
+*Aligarh Muslim University | 2020 - 2024*
+
+--- 
+
 ### 📊 Projects
 
 - [Sitting Posture and Mood Monitoring System Using Deep Learning](https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning) *(Aug 2023 - Apr 2024)*
@@ -66,9 +73,3 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
 - Collaboration & Teamwork  
 - Leadership
 
----
-
-### 🎓 Education
-
-**Bachelor of Technology in Electronics Engineering**  
-*Aligarh Muslim University | 2020 - 2024*
