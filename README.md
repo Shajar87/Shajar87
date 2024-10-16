@@ -36,6 +36,7 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
 - [Sitting Posture and Mood Monitoring System Using Deep Learning](https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning) *(Aug 2023 - Apr 2024)*
 - [Bank Customer Churn Analysis and Prediction](https://github.com/Shajar87/Customer_Churn_EDA_Prediction) *(Aug 2023 - Aug 2023)*
 - [Swiggy Customers’ Cohort/Retention Analysis](https://github.com/Shajar87/Swiggy-Case-Study-using-SQL) *(March 2023 - March 2023)*
+- [Resume-JD Analyzer Using Langchain](https://github.com/Shajar87/Resume-Analyzer-/tree/main) *(Sep 2024 - Oct 2024)*
 
 ---
 
