@@ -13,14 +13,14 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
 **Data Analyst Intern**  
 *Siemens, Gurugram | April 2024 - September 2024*  
 - Worked with the Quality Team of Siemens Mobility to analyze data from diverse internal sources.
-- Contributed to developing a Django-based Customer Complaint Management Tool, optimizing the complaint handling process. Automated the submission and receipt of complaints, aiming to reduce resolution time by 25-30%.
-- Designed a competency matrix in Excel to track and assess employee skill levels, enhancing workforce management and productivity.
-
+- Contributed to developing “Customer Complaint Management Tool”, optimizing the complaint handling process. Automated the submission and receipt of complaints using Django, aiming to reduce resolution time by 25-30%.
+- Developed an Excel-based “Skills Competency Tool” to track and assess employee skill levels, boosting workforce productivity 
 
 **Data Analyst Intern**  
 *GuruCool, Remote | February 2023 - April 2023*  
-- Collaborated with a 3-member team to analyze user engagement data from the Padhaai App and Instagram, delivering actionable insights that increased app downloads and follower engagement.  
-- Recommended feature improvements and content strategies, boosting engagement.
+- Collaborated with a 3-member data team to analyze and interpret user engagement data from the Padhaai App and its  Instagram page, delivering actionable insights that drove growth.  
+- Recommended feature improvements for the Padhaai App, contributing in an increase in app downloads.  
+- Developed and proposed content strategies for Instagram page, resulting in increase in follower engagement.
 
 ---
 
