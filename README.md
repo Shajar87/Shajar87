@@ -42,7 +42,7 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
       <b><a href="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning">Sitting Posture and Mood Monitoring System Using Deep Learning</a></b>
       <br /><br />
       <p><i>(Aug 2023 - Apr 2024)</i></p>
-      <p><b>Skills:</b> Python, TensorFlow, Deep Learning, Computer Vision</p>
+      <p><b>Skills:</b> Python, CNN, MediaPipe, TensorFlow, OpenCV, Streamlit</p>
     </td>
     <td>
       <a href="https://github.com/Shajar87/Resume-Analyzer-/tree/main">
@@ -52,7 +52,7 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
       <b><a href="https://github.com/Shajar87/Resume-Analyzer-/tree/main">AI-Powered Skill Gap Analyzer</a></b>
       <br /><br />
       <p><i>(Sep 2024 - Oct 2024)</i></p>
-      <p><b>Skills:</b> Natural Language Processing, Machine Learning, Python, Streamlit</p>
+      <p><b>Skills:</b> Python, LangChain, Streamlit</p>
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
       <b><a href="https://github.com/Shajar87/Customer_Churn_EDA_Prediction">Bank Customer Churn Analysis and Prediction</a></b>
       <br /><br />
       <p><i>(Aug 2023 - Aug 2023)</i></p>
-      <p><b>Skills:</b> Exploratory Data Analysis, Machine Learning, Python, Pandas</p>
+      <p><b>Skills:</b> Exploratory Data Analysis, Machine Learning, Python</p>
     </td>
     <td>
       <a href="https://github.com/Shajar87/Swiggy-Case-Study-using-SQL">
@@ -74,7 +74,7 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
       <b><a href="https://github.com/Shajar87/Swiggy-Case-Study-using-SQL">Swiggy Customers’ Cohort/Retention Analysis</a></b>
       <br /><br />
       <p><i>(March 2023 - March 2023)</i></p>
-      <p><b>Skills:</b> SQL, Cohort Analysis, Retention Analysis, Data Visualization</p>
+      <p><b>Skills:</b> SQL, PostgreSQL,  Power BI, Cohort Analysis, Retention Analysis</p>
     </td>
   </tr>
 </table>
