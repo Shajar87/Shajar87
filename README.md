@@ -30,13 +30,46 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
 *Aligarh Muslim University | 2020 - 2024*
 
 --- 
-
 ### 📊 Projects
 
-- [Sitting Posture and Mood Monitoring System Using Deep Learning](https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning) *(Aug 2023 - Apr 2024)*
-- [AI-Powered Skill Gap Analyzer](https://github.com/Shajar87/Resume-Analyzer-/tree/main) *(Sep 2024 - Oct 2024)*
-- [Bank Customer Churn Analysis and Prediction](https://github.com/Shajar87/Customer_Churn_EDA_Prediction) *(Aug 2023 - Aug 2023)*
-- [Swiggy Customers’ Cohort/Retention Analysis](https://github.com/Shajar87/Swiggy-Case-Study-using-SQL) *(March 2023 - March 2023)*
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning">
+        <img src="https://path_to_image1" alt="Posture-Mood Monitoring System" width="100%" />
+      </a>
+      <br />
+      <b><a href="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning">Sitting Posture and Mood Monitoring System Using Deep Learning</a></b>
+      <p><i>(Aug 2023 - Apr 2024)</i></p>
+    </td>
+    <td>
+      <a href="https://github.com/Shajar87/Resume-Analyzer-/tree/main">
+        <img src="https://path_to_image2" alt="AI-Powered Skill Gap Analyzer" width="100%" />
+      </a>
+      <br />
+      <b><a href="https://github.com/Shajar87/Resume-Analyzer-/tree/main">AI-Powered Skill Gap Analyzer</a></b>
+      <p><i>(Sep 2024 - Oct 2024)</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Shajar87/Customer_Churn_EDA_Prediction">
+        <img src="https://path_to_image3" alt="Customer Churn Analysis" width="100%" />
+      </a>
+      <br />
+      <b><a href="https://github.com/Shajar87/Customer_Churn_EDA_Prediction">Bank Customer Churn Analysis and Prediction</a></b>
+      <p><i>(Aug 2023 - Aug 2023)</i></p>
+    </td>
+    <td>
+      <a href="https://github.com/Shajar87/Swiggy-Case-Study-using-SQL">
+        <img src="https://path_to_image4" alt="Swiggy Cohort Analysis" width="100%" />
+      </a>
+      <br />
+      <b><a href="https://github.com/Shajar87/Swiggy-Case-Study-using-SQL">Swiggy Customers’ Cohort/Retention Analysis</a></b>
+      <p><i>(March 2023 - March 2023)</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
