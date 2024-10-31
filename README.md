@@ -31,42 +31,50 @@ I previously interned as a Data Analyst at Siemens. While I may not be an expert
 
 --- 
 ### 📊 Projects
-
+---
 <table>
   <tr>
     <td>
       <a href="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning">
-        <img src="https://path_to_image1" alt="Posture-Mood Monitoring System" width="100%" />
+        <img src="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning/blob/main/mood%26posture.png" alt="Posture-Mood Monitoring System" style="width:300px; height:200px; object-fit:cover;" />
       </a>
       <br />
       <b><a href="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning">Sitting Posture and Mood Monitoring System Using Deep Learning</a></b>
+      <br /><br />
       <p><i>(Aug 2023 - Apr 2024)</i></p>
+      <p><b>Skills:</b> Python, TensorFlow, Deep Learning, Computer Vision</p>
     </td>
     <td>
       <a href="https://github.com/Shajar87/Resume-Analyzer-/tree/main">
-        <img src="https://path_to_image2" alt="AI-Powered Skill Gap Analyzer" width="100%" />
+        <img src="https://github.com/Shajar87/Resume-Analyzer-/blob/main/rag_flowchart.png" alt="AI-Powered Skill Gap Analyzer" style="width:300px; height:200px; object-fit:cover;" />
       </a>
       <br />
       <b><a href="https://github.com/Shajar87/Resume-Analyzer-/tree/main">AI-Powered Skill Gap Analyzer</a></b>
+      <br /><br />
       <p><i>(Sep 2024 - Oct 2024)</i></p>
+      <p><b>Skills:</b> Natural Language Processing, Machine Learning, Python, Streamlit</p>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Shajar87/Customer_Churn_EDA_Prediction">
-        <img src="https://path_to_image3" alt="Customer Churn Analysis" width="100%" />
+        <img src="https://github.com/Shajar87/Projects-Files/blob/main/customer-churn.png" alt="Customer Churn Analysis" style="width:300px; height:200px; object-fit:cover;" />
       </a>
       <br />
       <b><a href="https://github.com/Shajar87/Customer_Churn_EDA_Prediction">Bank Customer Churn Analysis and Prediction</a></b>
+      <br /><br />
       <p><i>(Aug 2023 - Aug 2023)</i></p>
+      <p><b>Skills:</b> Exploratory Data Analysis, Machine Learning, Python, Pandas</p>
     </td>
     <td>
       <a href="https://github.com/Shajar87/Swiggy-Case-Study-using-SQL">
-        <img src="https://path_to_image4" alt="Swiggy Cohort Analysis" width="100%" />
+        <img src="https://github.com/Shajar87/Projects-Files/blob/main/swiggy-case-study.png" alt="Swiggy Cohort Analysis" style="width:300px; height:200px; object-fit:cover;" />
       </a>
       <br />
       <b><a href="https://github.com/Shajar87/Swiggy-Case-Study-using-SQL">Swiggy Customers’ Cohort/Retention Analysis</a></b>
+      <br /><br />
       <p><i>(March 2023 - March 2023)</i></p>
+      <p><b>Skills:</b> SQL, Cohort Analysis, Retention Analysis, Data Visualization</p>
     </td>
   </tr>
 </table>
