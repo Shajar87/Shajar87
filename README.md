@@ -4,7 +4,7 @@
 
 I’m Mohd Shajar, a data science enthusiast passionate about transforming data into actionable insights and driving process improvements that contribute to business growth.
 
-I previously interned as a Data Analyst at Siemens. While I may not be an expert, I have hands-on experience in ETL, exploratory data analysis, predictive modeling, and visualization through various projects and internships. I am eager to make a meaningful impact through data-driven strategies.
+Having hands-on experience in ETL, exploratory data analysis, predictive modeling, and visualization through various projects and internships, I am eager to make a meaningful impact through data-driven strategies.
 
 ---
 
