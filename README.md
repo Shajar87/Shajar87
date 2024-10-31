@@ -34,9 +34,9 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+<div style="flex: 1 1 250px; max-width: 250px; text-align: center;">
   <a href="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning">
-    <img src="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning/blob/main/mood%26posture.png" alt="Posture-Mood Monitoring System" style="width:100%; height:auto; object-fit:cover;" />
+    <img src="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning/blob/main/mood%26posture.png" alt="Posture-Mood Monitoring System" style="width:100%; object-fit:contain;" />
   </a>
   <br />
   <b><a href="https://github.com/Shajar87/Posture-Mood-Monitoring-System-Using-Deep-Learning">Sitting Posture and Mood Monitoring System Using Deep Learning</a></b>
@@ -45,9 +45,9 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
   <p><b>Skills:</b> Python, TensorFlow, Computer Vision</p>
 </div>
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+<div style="flex: 1 1 250px; max-width: 250px; text-align: center;">
   <a href="https://github.com/Shajar87/Resume-Analyzer-/tree/main">
-    <img src="https://github.com/Shajar87/Resume-Analyzer-/blob/main/rag_flowchart.png" alt="AI-Powered Skill Gap Analyzer" style="width:100%; height:auto; object-fit:cover;" />
+    <img src="https://github.com/Shajar87/Resume-Analyzer-/blob/main/rag_flowchart.png" alt="AI-Powered Skill Gap Analyzer" style="width:100%; object-fit:contain;" />
   </a>
   <br />
   <b><a href="https://github.com/Shajar87/Resume-Analyzer-/tree/main">AI-Powered Skill Gap Analyzer</a></b>
@@ -56,9 +56,9 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
   <p><b>Skills:</b> NLP, Machine Learning, Python, Streamlit</p>
 </div>
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+<div style="flex: 1 1 250px; max-width: 250px; text-align: center;">
   <a href="https://github.com/Shajar87/Customer_Churn_EDA_Prediction">
-    <img src="https://github.com/Shajar87/Projects-Files/blob/main/customer-churn.png" alt="Customer Churn Analysis" style="width:100%; height:auto; object-fit:cover;" />
+    <img src="https://github.com/Shajar87/Projects-Files/blob/main/customer-churn.png" alt="Customer Churn Analysis" style="width:100%; object-fit:contain;" />
   </a>
   <br />
   <b><a href="https://github.com/Shajar87/Customer_Churn_EDA_Prediction">Bank Customer Churn Analysis and Prediction</a></b>
@@ -67,9 +67,9 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
   <p><b>Skills:</b> Python, Pandas, Machine Learning</p>
 </div>
 
-<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+<div style="flex: 1 1 250px; max-width: 250px; text-align: center;">
   <a href="https://github.com/Shajar87/Swiggy-Case-Study-using-SQL">
-    <img src="https://github.com/Shajar87/Projects-Files/blob/main/swiggy-case-study.png" alt="Swiggy Cohort Analysis" style="width:100%; height:auto; object-fit:cover;" />
+    <img src="https://github.com/Shajar87/Projects-Files/blob/main/swiggy-case-study.png" alt="Swiggy Cohort Analysis" style="width:100%; object-fit:contain;" />
   </a>
   <br />
   <b><a href="https://github.com/Shajar87/Swiggy-Case-Study-using-SQL">Swiggy Customers’ Cohort/Retention Analysis</a></b>
@@ -79,6 +79,7 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
 </div>
 
 </div>
+
 
 ---
 
