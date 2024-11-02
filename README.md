@@ -49,30 +49,13 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
 - Revitalized the Cell after a prolonged shutdown, leading a cross-functional team of 16 members.  
 - Organized university-level workshops and events, including the week-long "Entrepreneurship Essentials" workshop for aspiring entrepreneurs.
 
+
+----
+### Skills Summary
+- **Programming & Tools**: Python, SQL (MySQL, PostgreSQL), Power BI, Databricks, Excel, Git/GitHub, AWS
+- **Libraries & Frameworks**: Numpy, Pandas, LangChain, OpenCV, TensorFlow, Keras, PyTorch, Scikit-Learn, MediaPipe,
+Matplotlib, Seaborn, Django
+- **Data Science & ML**: Supervised Learning (Regression, Classification), Convolutional Neural Networks,
+Feature Engineering, Data Modeling, statistical modeling, ETL, RAG, Prompt Engineering
+- **Soft Skills**: Initiative Taker, Problem-Solving, Analytical Thinking, Collaboration, Teamwork, Leadership
 ---
-
-### 🛠️ Technical Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-- **Programming**: Python, SQL (MySQL, PostgreSQL), PySpark
-- **Tools & Frameworks**: Power BI, Excel, Git, AWS, Django
-- **Libraries**: TensorFlow, MediaPipe, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
-- **Expertise**: Supervised Learning, Feature Engineering, CNNs, Data Modeling, ETL
-
----
-
-### 🤝 Soft Skills
-
-- Initiative Taker  
-- Analytical Thinking  
-- Problem-Solving  
-- Collaboration & Teamwork  
-- Leadership
-
