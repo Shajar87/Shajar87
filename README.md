@@ -1,4 +1,4 @@
-# Mohd Shajar | Data Analyst | Data Scientist 
+# Mohd Shajar | Data Scientist 
 
 ### About Me
 
