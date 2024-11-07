@@ -1,6 +1,6 @@
 # Mohd Shajar | Data Analyst | Data Scientist 
 
-### 🚀 About Me
+### About Me
 
 Hi, 
 I’m Mohd Shajar, a data science enthusiast, passionate about transforming data into actionable insights.
@@ -23,12 +23,6 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
 - Recommended feature improvements for the Padhaai App, contributing in an increase in app downloads.  
 - Developed and proposed content strategies for Instagram page, resulting in increase in follower engagement.
 
----
-
-### 🎓 Education
-
-**Bachelor of Technology in Electronics Engineering**  
-*Aligarh Muslim University | 2020 - 2024*
 
 --- 
 ### 📊 Projects
@@ -40,16 +34,6 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
 | 3   | [Bank Customer Churn Analysis and Prediction](https://github.com/Shajar87/Customer_Churn_EDA_Prediction)             | *Aug 2023 - Aug 2023*        | Python, Machine Learning, Streamlit, Power BI       |
 | 4   | [Swiggy Customers’ Cohort/Retention Analysis](https://github.com/Shajar87/Swiggy-Case-Study-using-SQL)               | *March 2023 - March 2023*    | SQL, PostgreSQL, Cohort Analysis |
 
----
-
-### 🌟 Extracurricular Experience
-
-**Coordinator, Entrepreneurship Development Cell**  
-*Aligarh Muslim University | January 2023 - March 2024*  
-- Revitalized the Cell after a prolonged shutdown, leading a cross-functional team of 16 members.  
-- Organized university-level workshops and events, including the week-long "Entrepreneurship Essentials" workshop for aspiring entrepreneurs.
-
-
 ----
 ### Skills Summary
 - **Programming & Tools**: Python, SQL (MySQL, PostgreSQL), Power BI, Databricks, Excel, Git/GitHub, AWS
@@ -59,3 +43,11 @@ Matplotlib, Seaborn, Django
 Feature Engineering, Data Modeling, statistical modeling, ETL, RAG, Prompt Engineering
 - **Soft Skills**: Initiative Taker, Problem-Solving, Analytical Thinking, Collaboration, Teamwork, Leadership
 ---
+
+### Extracurricular Experience
+
+**Coordinator, Entrepreneurship Development Cell**  
+*Aligarh Muslim University | January 2023 - March 2024*  
+- Revitalized the Cell after a prolonged shutdown, leading a cross-functional team of 16 members.  
+- Organized university-level workshops and events, including the week-long "Entrepreneurship Essentials" workshop for aspiring entrepreneurs.
+
