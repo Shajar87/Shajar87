@@ -11,10 +11,10 @@ Having hands-on experience in ETL, exploratory data analysis, predictive modelin
 
 ### 💼 Professional Experience
 
-**Data Analyst Intern**  
+**Intern**  
 *Siemens, Gurugram | April 2024 - September 2024*  
-- Worked with the Quality Team of Siemens Mobility to analyze data from diverse internal sources.
-- Contributed to developing “Customer Complaint Management Tool”, optimizing the complaint handling process. Automated the submission and receipt of complaints using Django, aiming to reduce resolution time by 25-30%.
+- Analyzed data from internal sources at Siemens Mobility to support the Quality Team.
+- Contributed to the development of the "Customer Complaint Management Tool" by automating the submission and receipt of complaints using Django, reducing resolution time by 25-30%.
 - Developed an Excel-based “Skills Competency Tool” to track and assess employee skill levels, boosting workforce productivity 
 
 **Data Analyst Intern**  
