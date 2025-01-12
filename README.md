@@ -5,23 +5,26 @@
 Hi, 
 I’m Mohd Shajar, a data science enthusiast, passionate about transforming data into actionable insights.
 
-Having hands-on experience in ETL, exploratory data analysis, predictive modeling, and visualization through various projects and internships, I am eager collaborate to make a meaningful impact through data-driven strategies.
+Having hands-on experience in ETL, exploratory data analysis, predictive modeling, and visualization gained through various projects, I am eager collaborate to make a meaningful impact through data-driven strategies.
 
 ---
 
 ### 💼 Professional Experience
 
+**Data Quality Associate**  
+*GlobalLogic, Gurugram | Dec 2024 - Present*  
+- Ensuring data accuracy and integrity by implementing data quality assurance processes and standards.
+  
 **Intern**  
 *Siemens, Gurugram | April 2024 - September 2024*  
-- Analyzed data from internal sources at Siemens Mobility to support the Quality Team.
-- Contributed to the development of the "Customer Complaint Management Tool" by automating the submission and receipt of complaints using Django, reducing resolution time by 25-30%.
-- Developed an Excel-based “Skills Competency Tool” to track and assess employee skill levels, boosting workforce productivity 
-
+- Main key responsibility was analyzing data from various internal sources, including client complaints, to support the quality team in identifying trends and driving process improvements. 
+- Contributed to development of "Customer Complaint Management Tool" to streamline complaint handling process.
+- Automated complaint submission and receipt processes using Django aimed to reduce resolution time by 25-30%.
+  
 **Data Analyst Intern**  
 *GuruCool, Remote | February 2023 - April 2023*  
-- Collaborated with a 3-member data team to analyze and interpret user engagement data from the Padhaai App and its  Instagram page, delivering actionable insights that drove growth.  
-- Recommended feature improvements for the Padhaai App, contributing in an increase in app downloads.  
-- Developed and proposed content strategies for Instagram page, resulting in increase in follower engagement.
+- Collaborated with a 3-member data team to analyze and interpret user engagement data  using Excel from the Padhaai App and its Instagram page, delivering actionable insights that drove growth.  
+- Developed and recommended content strategies for the Padhaai App, leading to an increase in app downloads.
 
 
 --- 
