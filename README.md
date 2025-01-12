@@ -49,7 +49,7 @@ Feature Engineering, Data Modeling, statistical modeling, ETL, RAG, Prompt Engin
 
 ### Extracurricular Experience
 
-**Coordinator, Entrepreneurship Development Cell**  
+**Chairperson, Entrepreneurship Development Cell**  
 *Aligarh Muslim University | January 2023 - March 2024*  
 - Revitalized the Cell after a prolonged shutdown, leading a cross-functional team of 16 members.  
 - Organized university-level workshops and events, including the week-long "Entrepreneurship Essentials" workshop for aspiring entrepreneurs.
